@@ -1,5 +1,5 @@
 # bigdata-ciberseguridad-spark
- Análisis de intrusiones de red con Apache Spark (PySpark) - UNAD Big Data
+ Análisis de intrusiones de red con Apache Spark - UNAD Big Data
 # Análisis de Intrusiones de Ciberseguridad con Apache Spark
 
 ## Descripción del problema

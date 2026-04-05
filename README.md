@@ -14,7 +14,7 @@ para identificar comportamientos maliciosos.
 - **Tasa de intrusión:** 44.7%
 
 ## Tecnologías utilizadas
-- Apache Spark 3.x (PySpark)
+- Apache Spark 4.1.1 (PySpark)
 - Python 3.8+
 - Matplotlib
 - Pandas
